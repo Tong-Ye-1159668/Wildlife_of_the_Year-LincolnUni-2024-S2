@@ -1,8 +1,40 @@
-# COMP639S2_project_1_Nu
+# NZ ___ of the Year Voting Management System
+
+This repository contains a group project developed for the COMP 639 Studio Project during Semester 2 of my Master of Applied Computing studies at Lincoln University. The web application is a voting management system designed to facilitate and oversee public voting for the "NZ ___ of the Year" award to promote land and nature conservation in New Zealand.
+
+## Features
+- **Voting System**:
+  - Allows voters to register, log in, and cast a single vote during active competitions.
+  - Displays current and finalised competition results.
+- **Role Management**:
+  - Supports three user roles: **Admin**, **Scrutineer**, and **Voter**.
+  - Admins manage competitions and user accounts for the competition team.
+  - Scrutineers monitor voting integrity and manage suspected fraudulent activity.
+- **Competition Management**:
+  - Admins can create, edit, and delete competitions and competitors.
+  - Competitions include start and end dates, competitor details, and images.
+- **Data Integrity**:
+  - Scrutineers can monitor voting patterns, track suspicious IP addresses, and invalidate fraudulent votes.
+
+## Technical Details
+- **Technologies Used**:
+  - Backend: Python (Flask), MySQL.
+  - Frontend: Bootstrap CSS, JavaScript.
+- **Database Management**:
+  - Includes scripts for database creation and data population.
+  - Ensures secure password storage with hashing and salting.
+- **Hosting**:
+  - Deployed on PythonAnywhere.
+- **Development Methodology**:
+  - Agile Scrum methodology with user stories, sprints, and Jira task management.
+
+## Wildlife of the Year
+
+By Group Nu, Group member: Tong Ye, Hao Chen, Anson Chen, Jianchang Hong, Min Long
 
 ## Introduction
 
-Year of Bird(YOB) is a web application built with Flask for managing user profiles, votes, and more. This application supports user registration, login, profile management, voting, and administrative functions.
+Wildlife of the Year is a web application built with Flask for managing user profiles, votes, and more. This application supports user registration, login, profile management, voting, and administrative functions.
 
 ## Features
 
@@ -27,8 +59,8 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/COMP639S2_project_1_Nu.git
-    cd COMP639S2_project_1_Nu
+    git clone https://github.com/Tong-Ye-1159668/Wildlife_of_the_Year-LincolnUni-2024-S2.git
+    cd Wildlife_of_the_Year-LincolnUni-2024-S2
     ```
 
 2. Create a virtual environment and activate it:
