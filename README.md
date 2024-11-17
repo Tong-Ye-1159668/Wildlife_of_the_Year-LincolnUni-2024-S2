@@ -27,8 +27,8 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/COMP639S2_project_1_Nu.git
-    cd COMP639S2_project_1_Nu
+    git clone https://github.com/Tong-Ye-1159668/Wildlife_of_the_Year-LincolnUni-2024-S2.git
+    cd Wildlife_of_the_Year-LincolnUni-2024-S2
     ```
 
 2. Create a virtual environment and activate it:
