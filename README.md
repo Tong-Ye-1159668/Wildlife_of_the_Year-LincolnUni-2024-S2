@@ -1,6 +1,25 @@
 # NZ ___ of the Year Voting Management System
 
+#### Submitted on 25 August 2024
+
 This repository contains a group project developed for the COMP 639 Studio Project during Semester 2 of my Master of Applied Computing studies at Lincoln University. The web application is a voting management system designed to facilitate and oversee public voting for the "NZ ___ of the Year" award to promote land and nature conservation in New Zealand.
+
+## Try demo here!
+https://comp639nu.pythonanywhere.com/
+
+## Interface
+
+Main Page
+
+![image](https://github.com/user-attachments/assets/d544df98-e27a-4db9-ba01-8d382e958ecb)
+
+Voting Page
+
+![image](https://github.com/user-attachments/assets/e6351692-057a-40fe-abf6-e0058fe57818)
+
+Voting Management Page
+
+![image](https://github.com/user-attachments/assets/7641704f-f7bc-4e66-a454-55bdf55e8a67)
 
 ## Features
 - **Voting System**:
